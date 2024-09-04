@@ -1,0 +1,14 @@
+D:\C#\sea_battle\sea_battle\obj\Debug\net8.0\sea_battle.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\sea_battle\sea_battle\obj\Debug\net8.0\sea_battle.AssemblyInfoInputs.cache
+D:\C#\sea_battle\sea_battle\obj\Debug\net8.0\sea_battle.AssemblyInfo.cs
+D:\C#\sea_battle\sea_battle\obj\Debug\net8.0\sea_battle.csproj.CoreCompileInputs.cache
+D:\C#\sea_battle\sea_battle\bin\Debug\net8.0\sea_battle.exe
+D:\C#\sea_battle\sea_battle\bin\Debug\net8.0\sea_battle.deps.json
+D:\C#\sea_battle\sea_battle\bin\Debug\net8.0\sea_battle.runtimeconfig.json
+D:\C#\sea_battle\sea_battle\bin\Debug\net8.0\sea_battle.dll
+D:\C#\sea_battle\sea_battle\bin\Debug\net8.0\sea_battle.pdb
+D:\C#\sea_battle\sea_battle\obj\Debug\net8.0\sea_battle.dll
+D:\C#\sea_battle\sea_battle\obj\Debug\net8.0\refint\sea_battle.dll
+D:\C#\sea_battle\sea_battle\obj\Debug\net8.0\sea_battle.pdb
+D:\C#\sea_battle\sea_battle\obj\Debug\net8.0\sea_battle.genruntimeconfig.cache
+D:\C#\sea_battle\sea_battle\obj\Debug\net8.0\ref\sea_battle.dll
